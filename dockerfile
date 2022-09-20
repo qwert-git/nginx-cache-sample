@@ -1,6 +1,6 @@
 FROM nginx
 
-COPY . usr/share/nginx/site
+COPY ./site usr/share/nginx/site
 
 COPY nginx.conf /etc/nginx/nginx.conf
 

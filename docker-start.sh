@@ -1,4 +1,4 @@
-docker build -t nginx-cache ./site/
+docker build -t nginx-cache .
 
 docker stop nginx-cache
 
