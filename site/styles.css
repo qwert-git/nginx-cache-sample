@@ -5,3 +5,13 @@ p {
     color: white;
     padding: 70px;
 }
+
+.main-image-container {
+    height: 350;
+}
+
+.main-image-container img{
+    max-height: 100%;
+    margin-left: 7%;
+    margin-right: 7%;
+}
